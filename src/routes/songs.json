@@ -1,0 +1,25 @@
+{
+	"songs": [
+		{
+			"id": 0,
+			"title": "I Was Never There",
+			"artist": "Weeknd",
+			"filePath": "/songs/IWasNeverThere.mp3"
+
+		},
+		{
+			"id": 1,
+			"title": "Vent",
+			"artist": "Baby Keem",
+			"filePath": "/songs/vent.mp3"
+
+			
+		},
+		{
+			"id": 2,
+			"title": "New Magic Wand",
+			"artist": "Tyler, The Creator",
+			"filePath": "/songs/NewMagicWand.mp3"
+
+		}]
+}
